@@ -2,7 +2,8 @@ import 'dart:io';
 
 void main(){
  var name = 7;
- name = "hii" as int;
+ name = "hii" a int;
  print(name);
 
 }
+HandshakeException
